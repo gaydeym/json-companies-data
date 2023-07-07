@@ -5,7 +5,7 @@
         "address": "Av. Hipólito Yrigoyen 8353, Lomas de Zamora",
         "phone": "+54 11 4245-0800",
         "website": "https://www.carrefour.com.ar",
-        "imageurl": "https://gaydeym.github.io/json-companies-data/images/carrefour.webp",
+        "imageurl": "https://raw.githubusercontent.com/gaydeym/json-companies-data/main/images/carrefour.webp",
         "level": "bronze"
       },
       {
@@ -13,7 +13,7 @@
         "address": "Av. Hipólito Yrigoyen 8637, Lomas de Zamora",
         "phone": "+54 11 4244-4000",
         "website": "https://www.farmacity.com",
-        "imageurl": "https://gaydeym.github.io/json-companies-data/images/farmacity.webp",
+        "imageurl": "https://raw.githubusercontent.com/gaydeym/json-companies-data/main/images/farmacity.webp",
         "level": "silver"
       },
       {
@@ -21,7 +21,7 @@
         "address": "Av. Hipólito Yrigoyen 8533, Lomas de Zamora",
         "phone": "+54 11 4243-6789",
         "website": "https://www.musimundo.com",
-        "imageurl": "https://gaydeym.github.io/json-companies-data/images/musimundo.webp",
+        "imageurl": "https://raw.githubusercontent.com/gaydeym/json-companies-data/main/images/musimundo.webp",
         "level": "gold"
       },
       {
@@ -29,7 +29,7 @@
         "address": "Av. Meeks 111, Lomas de Zamora",
         "phone": "+54 11 4245-7600",
         "website": "https://www.coto.com.ar",
-        "imageurl": "https://gaydeym.github.io/json-companies-data/images/coto.webp",
+        "imageurl": "https://raw.githubusercontent.com/gaydeym/json-companies-data/main/images/coto.webp",
         "level": "bronze"
       },
       {
@@ -37,7 +37,7 @@
         "address": "Gral. Frías 3201, Llavallol",
         "phone": "+54 810-999-5862",
         "website": "https://www.portallomas.com.ar",
-        "imageurl": "https://gaydeym.github.io/json-companies-data/images/jumbo.webp",
+        "imageurl": "https://raw.githubusercontent.com/gaydeym/json-companies-data/main/images/jumbo.webp",
         "level": "gold"
       },
       {
@@ -45,7 +45,7 @@
         "address": "Italia 459, Lomas de Zamora",
         "phone": "+54 9 11 3199-0000",
         "website": "https://laslomitasstreet.com.ar",
-        "imageurl": "https://gaydeym.github.io/json-companies-data/images/lomitas.webp",
+        "imageurl": "https://raw.githubusercontent.com/gaydeym/json-companies-data/main/images/lomitas.webp",
         "level": "silver"
       },
       {
@@ -53,7 +53,7 @@
         "address": "José Ignacio Gorriti 145, Lomas de Zamora",
         "phone": "+54 11 4193-7119",
         "website": "https://esquinadelasflores.com.ar",
-        "imageurl": "https://gaydeym.github.io/json-companies-data/images/flores.webp",
+        "imageurl": "https://raw.githubusercontent.com/gaydeym/json-companies-data/main/images/flores.webp",
         "level": "silver"
       },
       {
@@ -61,7 +61,7 @@
         "address": "Au Ezeiza - Cañuelas, Ezeiza",
         "phone": "+54 11 6091-2220",
         "website": "https://hjezeiza.com.ar",
-        "imageurl": "https://gaydeym.github.io/json-companies-data/images/howard.webp",
+        "imageurl": "https://raw.githubusercontent.com/gaydeym/json-companies-data/main/images/howard.webp",
         "level": "gold"
       },
       {
@@ -69,7 +69,7 @@
         "address": "Av. Hipólito Yrigoyen 8833, Lomas de Zamora",
         "phone": "+54 11 5533-8300",
         "website": "https://www.bancogalicia.com.ar",
-        "imageurl": "https://gaydeym.github.io/json-companies-data/images/galicia.webp",
+        "imageurl": "https://raw.githubusercontent.com/gaydeym/json-companies-data/main/images/galicia.webp",
         "level": "np"
       }
     ]
